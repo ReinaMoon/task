@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://staging-beta.on-running.com",
+  "defaultCommandTimeout": 5000,
+  "video": false,
+  "env": {
+    "staging": true
+  }
+}
