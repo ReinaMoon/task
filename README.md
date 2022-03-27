@@ -1,0 +1,1 @@
+# exec : npx cypress open
